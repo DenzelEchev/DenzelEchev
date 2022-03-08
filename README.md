@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DenzelEchev
-- 👀 I’m interested in ... Anime, Games, Becoming a Web Dev
-- 🌱 I’m currently learning ...LOTS!! JS, React, HTML, Node etc.
-- 💞️ I’m looking to collaborate on ...Anime or Gaming project soon
-- 📫 How to reach me ...https://twitter.com/WolfenWZRD
+- 👋 Hi, I’m @DenzelEchev a Full Stack Web Developer
+- 👀 I’m driven by discorvery, as well as anime, games (digital and table top), and most of all MUSIC
+- 🌱 I’m currently enrolled Leon Noel's 100Devs code bootcamp
+- 💞️ I’m looking to collaborate on ...Anime or Gaming project soon, also something to do with music in the future
+- 📫 How to reach me ...https://twitter.com/WolfenWZRD, denzel.echevarria@gmail.com
 
 <!---
 DenzelEchev/DenzelEchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
