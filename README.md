@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DenzelEchev a Full Stack Web Developer
+- 👋 Hi, I’m @DenzelEchev a Front End Developer
 - 👀 I’m driven by discorvery, as well as anime, games (digital and table top), and most of all MUSIC
 - 🌱 I’m currently enrolled Leon Noel's 100Devs code bootcamp
 - 💞️ I’m looking to collaborate on ...Anime or Gaming project soon, also something to do with music in the future
