@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denzel M Echevarria</h1>
-<h3 align="center">Front End Dev who reads manga and watches anime</h3>
+<h3 align="center">Software Engineer who reads manga and watches anime</h3>
 
 - 🔭 I’m currently working on [PokeAPI](https://github.com/DenzelEchev/PokeAPI)
 
