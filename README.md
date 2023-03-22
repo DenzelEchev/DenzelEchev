@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denzel M Echevarria</h1>
 <h3 align="center">Software Engineer who reads manga and watches anime</h3>
 
-- 🔭 I’m currently working on [PokeAPI](https://github.com/DenzelEchev/PokeAPI)
+- 🔭 I’m currently working on [11ty Portfolio](https://github.com/DenzelEchev/11ty-Portfolio)
 
 - 🌱 I’m currently learning **Node JS, React, Tailwind, 11ty**
 
