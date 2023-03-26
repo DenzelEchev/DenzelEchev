@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denzel M Echevarria</h1>
 <h3 align="center">Software Engineer who reads manga and watches anime</h3>
-![codeWars](https://www.codewars.com/users/DenzelEchev/badges/large)
 
 - 🔭 I’m currently working on [11ty Portfolio](https://github.com/DenzelEchev/11ty-Portfolio)
 
