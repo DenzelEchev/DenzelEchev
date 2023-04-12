@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **denzel.echevarria@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFf1Cx0AnI/h83IES1zTCAMW4KFnukrKA/view?utm_content=DAFf1Cx0AnI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFf1Cx0AnI/h83IES1zTCAMW4KFnukrKA/view?utm_content=DAFf1Cx0AnI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFf1Cx0AnI/h83IES1zTCAMW4KFnukrKA/view?utm_content=DAFf1Cx0AnI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **I used to be a professional SSBM player**
 
