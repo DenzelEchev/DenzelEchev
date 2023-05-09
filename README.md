@@ -38,3 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denzelechev&" alt="denzelechev" /></p>
 
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzelechev&theme=radical&hide_border=true&layout=compact)](https://github.com/denzelechev/github-readme-stats)
+
