@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/denzelech" target="blank"><img src="https://img.shields.io/twitter/follow/denzelech?logo=twitter&style=for-the-badge" alt="denzelech" /></a> </p>
 
-- 🔭 I’m currently working on [11ty Website](https://github.com/DenzelEchev/11ty-Portfolio)
+- 🔭 I’m currently working on a [Tekken Companion App](https://github.com/DenzelEchev/tekken-cmp)
 
-- 🌱 I’m currently learning **Vite, Sass. TypeScript coming soon..**
+- 🌱 I’m currently learning **React, and TypeScript coming soon..**
 
-- 👯 I’m looking to collaborate on **Vite projects (ask me about it)**
+- 👯 I’m looking to collaborate on **React projects (ask me about it)**
 
 - 👨‍💻 All of my projects are available at [denzelechevarria.dev](denzelechevarria.dev)
 
-- 📝 I regularly write articles on [https://denzelechevarria.dev/blog/](https://denzelechevarria.dev/blog/)
+- 📝 I regularly write about what I am doing on [https://denzelechevarria.dev/blog/](https://denzelechevarria.dev/blog/)
 
-- 💬 Ask me about **11ty and static site generators**
+- 💬 Ask me about **11ty and static site generators, and Nunjucks**
 
 - 📫 How to reach me **denzel.echevarria@gmail.com**
 
