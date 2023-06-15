@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denzel M Echevarria</h1>
-<h3 align="center">Software Engineer who reads manga and watches anime</h3>
+<h3 align="center">Outreach / Co-Org @ Philly JS Club</h3>
+<h3 align="center">Anime, Video Games, Manga</h3>
 
 <p align="left"> <a href="https://twitter.com/denzelech" target="blank"><img src="https://img.shields.io/twitter/follow/denzelech?logo=twitter&style=for-the-badge" alt="denzelech" /></a> </p>
 
