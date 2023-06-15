@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, and NextJS**
 
-- 👯 I’m looking to collaborate on **React projects (ask me about it)**
+- 👯 I’m looking to collaborate on **Open Source, or your next community meet-up**
 
 - 👨‍💻 All of my projects are available at [denzelechevarria.dev](denzelechevarria.dev)
 
