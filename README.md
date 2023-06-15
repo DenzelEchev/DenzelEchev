@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [Tekken Companion App](https://github.com/DenzelEchev/tekken-cmp)
 
-- 🌱 I’m currently learning **React, and TypeScript coming soon..**
+- 🌱 I’m currently learning **React, TypeScript, and NextJS**
 
 - 👯 I’m looking to collaborate on **React projects (ask me about it)**
 
