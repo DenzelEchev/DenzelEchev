@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFf1Cx0AnI/h83IES1zTCAMW4KFnukrKA/view?utm_content=DAFf1Cx0AnI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **I used to be a professional SSBM player and internet personality**
+- ⚡ Fun fact **I used to be a professional SSBM player and an internet personality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
