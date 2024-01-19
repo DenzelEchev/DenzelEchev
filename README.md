@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a [Tekken Companion App](https://github.com/DenzelEchev/tekken-cmp)
 
-- 🌱 I’m currently learning **React(hooks specifically), TypeScript, and NextJS**
+- 🌱 I’m currently learning **React(hooks specifically), TypeScript, Remix, and NextJS**
 
 - 👯 I’m looking to collaborate on **Open Source, or your next community meet-up**
 
