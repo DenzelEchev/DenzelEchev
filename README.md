@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/denzelech" target="blank"><img src="https://img.shields.io/twitter/follow/denzelech?logo=twitter&style=for-the-badge" alt="denzelech" /></a> </p>
 
-- 🔭 I’m currently working on a [Tekken Companion App](https://github.com/DenzelEchev/tekken-cmp)
+- 🔭 I’m working on redoing my personal site/ portfolio
 
 - 🌱 I’m currently learning **React(hooks specifically), TypeScript, Remix, and NextJS**
 
